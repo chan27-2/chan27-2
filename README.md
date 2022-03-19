@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan27-2&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan27-2&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **chan27-2/chan27-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
