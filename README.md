@@ -6,7 +6,7 @@
 Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{chan27-2}/count.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan27-2&theme=ayu-light&hide_border=true&date_format=j%20M%5B%20Y%5D&background=171B21)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan27-2&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=F2DAB3&ring=A2293F&border=D9AA92&currStreakNum=44312A&sideNums=44312A&sideLabels=A2293F&currStreakLabel=A2293F&fire=DD542C&stroke=D9AA92)](https://git.io/streak-stats)
 
 <!--
 **chan27-2/chan27-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
