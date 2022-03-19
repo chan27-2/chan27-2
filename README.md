@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&count_private=true&show_icons=true)
 
-![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
+![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact)
 
 Viewer Count :
  ![Visitor Count](https://profile-counter.glitch.me/{chan27-2}/count.svg)
