@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&count_private=true&show_icons=true)
+![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&count_private=true&show_icons=true&theme=moltack)
 
 ![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact&theme=moltack)
 
