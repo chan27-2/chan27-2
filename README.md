@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sai Chandan Kadarla 👋
 
 ## 🚀 About Me
 I'm a passionate developer with a love for learning and creating. Here's a glimpse into my GitHub activity!
@@ -11,6 +11,7 @@ I'm a passionate developer with a love for learning and creating. Here's a glimp
 
 ## 🛠️ Tech Stack
 Here are some of the technologies and tools that I work with:
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -22,17 +23,10 @@ Here are some of the technologies and tools that I work with:
 ## ⚡ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact&theme=radical)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chan27-2&theme=xcode)
-
 ## 📫 How to reach me:
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/chan27-2/)
 - Twitter: [@kadarla27](https://twitter.com/kadarla27)
 
 ## 👀 Profile Visitor Count
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chan27-2)
