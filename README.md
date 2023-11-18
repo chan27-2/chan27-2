@@ -1,21 +1,38 @@
-### Hi there 👋
-![Chan27-2's github stats](https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&count_private=true&show_icons=true&theme=moltack)
+# Hi there, I'm [Your Name] 👋
 
-![Chan27-2's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact&theme=moltack)
+## 🚀 About Me
+I'm a passionate developer with a love for learning and creating. Here's a glimpse into my GitHub activity!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chan27-2&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=F2DAB3&ring=A2293F&border=D9AA92&currStreakNum=44312A&sideNums=44312A&sideLabels=A2293F&currStreakLabel=A2293F&fire=DD542C&stroke=D9AA92)](https://git.io/streak-stats)
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chan27-2&theme=dark)
 
-<!--
-**chan27-2/chan27-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Here are some of the technologies and tools that I work with:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+<!-- Add other badges here -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan27-2&layout=compact&theme=radical)
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chan27-2&theme=xcode)
+
+## 📫 How to reach me:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/chan27-2/)
+- Twitter: [@kadarla27](https://twitter.com/kadarla27)
+
+## 👀 Profile Visitor Count
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
