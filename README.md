@@ -14,7 +14,7 @@ I'm always armed and ready with a diverse arsenal of technologies and tools, con
 ### 💡 Fun Fact
 Did you know? The world of software development is like an endless puzzle, and I'm here to solve it piece by piece. Join me on this exhilarating ride and let's build some digital magic happen! You can catch me on Twitter for some tech chit-chat or connect with me on LinkedIn for professional networking and exciting collaborations.
 
-[![Twitter: cskadarla](https://img.shields.io/twitter/follow/kadarla27?style=social)](https://twitter.com/cskadarla)
+[![Twitter: cskadarla](https://img.shields.io/twitter/follow/cskadarla?style=social)](https://twitter.com/cskadarla)
 [![Linkedin: Sai Chandan Kadarla](https://img.shields.io/badge/-saichandankadarla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saichandankadarla/)](https://www.linkedin.com/in/saichandankadarla/)
 
 <!--
