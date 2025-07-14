@@ -62,7 +62,7 @@ I'm a full-stack product engineer who moves with intent and speed. My work spans
 ## 🚀 Featured Work
 
 ### 🧠 [commander-ai.com](https://commander-ai.com)
-> Chromium-based browser assistant. Each tab is an AI agent context. Automates research, interaction, and execution using Playwright and CDP.
+> Commander transforms Chrome with AI-driven automation, instant answers, and personalized workflows. Work smarter, not harder.
 
 ### 📘 [typescriptdocs.com](https://www.typescriptdocs.com)
 > A modern, community-powered TypeScript docs site — built with clean design, MDX, GitHub workflows, and speed in mind.
