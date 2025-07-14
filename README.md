@@ -1,88 +1,86 @@
-<h1 align="center">Hi, I'm Sai Chandan Kadarla 👋</h1>
-
+<h1 align="center">Sai Chandan Kadarla</h1>
 <p align="center">
-  <b>Full-Stack Software Developer | AI Product Builder | Flutter Specialist</b><br/>
-  Delivering high-impact solutions with precision, speed, and scalable design.
+  <b>Full-Stack Developer · AI Builder · Flutter Veteran · Product-Minded Engineer</b><br/>
+  I design, build, and scale software that ships — fast, secure, and user-first.
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a results-driven full-stack engineer with strong experience in building scalable web platforms, real-time mobile applications, and AI-native tools. My engineering mindset is matched by my product intuition — I prioritize maintainability, user experience, and clean architecture in everything I build.
+I'm a full-stack product engineer who moves with intent and speed. My work spans complex multi-tenant SaaS platforms, real-time mobile apps, and AI-native experiences. I build with precision — from backend architecture to UI detail — and always with shipping in mind.
+
+- 20+ real-world apps shipped in Flutter using BLoC, WebSockets, Firebase
+- Deep experience across Next.js, Supabase, Convex, Clerk, Vite, and Firebase
+- Fluent in TypeScript, C# 12/.NET 8, and Go
+- Build-first approach, low overhead, high outcome
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🧱 Core Stack
 
-### ⚙️ Web Development
+### ⚙️ Web
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🔥 Backend & Auth
+### 🔐 Auth & Backend
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Convex-000000?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCA0OC40MDkgNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI0IDBDMTAuNzYgMCAwIDEwLjc2IDAgMjRzMTAuNzYgMjQgMjQgMjQgMjQtMTAuNzYgMjQtMjRTMzcuMjQgMCAyNCAweiIvPjwvc3ZnPg==" />
   <img src="https://img.shields.io/badge/Clerk-0F172A?logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AD-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
 </p>
 
-> ✅ Built and shipped over **20+ Flutter apps** (e-commerce, real-time chat, games, UI showcases), using clean architecture and **BLoC pattern** extensively.
+> 20+ production Flutter apps. Chat, commerce, games — with real-time features & BLoC.
 
-### 💻 Backend Engineering
+### 💻 Systems
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23_12-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AD-0078D4?logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Work
 
-- **🌐 Multi-Tenant Web Platforms**  
-  With clean architecture, Convex/Supabase, and dynamic auth using Clerk or Firebase
+### 🧠 [commander-ai.com](https://commander-ai.com)
+> Chromium-based browser assistant. Each tab is an AI agent context. Automates research, interaction, and execution using Playwright and CDP.
 
-- **📱 Real-Time Mobile Applications**  
-  Using Flutter + Firebase + BLoC for seamless chat, gaming, and utility apps
-
-- **🧠 AI-Native Tools**  
-  Including AI agents for browser automation, comic-story generators, and founder profiling tools
-
-- **📊 DevInfra & Enterprise Systems**  
-  Working with SAML, Azure AD B2C, CI/CD pipelines, and scalable cloud deployments
+### 📘 [typescriptdocs.com](https://www.typescriptdocs.com)
+> A modern, community-powered TypeScript docs site — built with clean design, MDX, GitHub workflows, and speed in mind.
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chan27-2&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chan27-2&show_icons=true&theme=radical" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chan27-2&theme=radical" height="175" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-<p align="left">
+<p>
   <a href="https://twitter.com/cskadarla">
     <img src="https://img.shields.io/twitter/follow/cskadarla?style=social" />
   </a>
@@ -93,5 +91,4 @@ I am a results-driven full-stack engineer with strong experience in building sca
 
 ---
 
-> _"I approach engineering like a founder — hands-on, strategic, and always thinking a few moves ahead."_  
-> — **Sai Chandan Kadarla**
+> I work like a founder: fast decisions, hands-on execution, always shipping. Let's build.
